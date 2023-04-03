@@ -2,10 +2,10 @@
 
 ## **Índice**
 
-* [1. Intro](https://github.com/dianacarreon/clonacion_google/edit/main/README.md#1-intro)
-* [2. ¿Qué construí?](https://github.com/dianacarreon/clonacion_google/edit/main/README.md#2-que-constru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/dianacarreon/clonacion_google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/dianacarreon/clonacion_google/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/dianacarreon/clonacion_google/blob/main/README.md#1-intro)
+* [2. ¿Qué construí?](https://github.com/dianacarreon/clonacion_google/blob/main/README.md#2-que-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/dianacarreon/clonacion_google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/dianacarreon/clonacion_google/blob/main/README.md#4-link-a-demo)
 
 ****
 ## 1. Intro
